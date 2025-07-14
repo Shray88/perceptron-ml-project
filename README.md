@@ -26,7 +26,8 @@ A simple implementation of a binary classification Perceptron using Python and N
 
 ## 📷 Sample Output
 
-![decision-boundary]()![Uploading Decision_Boundary_Perceptron.png…]()
+![decision-boundary]()<img width="610" height="454" alt="Decision_Boundary_Perceptron" src="https://github.com/user-attachments/assets/d1e875e6-4ccb-447a-9bac-26d263b87035" />
+
 
 
 ---
